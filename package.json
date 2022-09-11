@@ -49,6 +49,7 @@
     "validate": "yarn lint && yarn prettify"
   },
   "devDependencies": {
-    "serverless": "^3.22.0"
+    "serverless": "2.9.0",
+    "serverless-openapi-documentation": "^0.4.0"
   }
 }

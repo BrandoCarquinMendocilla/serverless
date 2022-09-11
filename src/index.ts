@@ -101,4 +101,5 @@ const mostrarPersonaje = async ( event: APIGatewayProxyEvent, context:any ) => {
   }
 }
 
+
 export { handler, detallePlaneta, registrarPersonaje, mostrarPersonaje }
